@@ -57,6 +57,9 @@ Follow these steps to run the project locally:
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+```text
 COM206-FinalProject/
 ├── submissions/
 │   └── eren-varol/
@@ -69,4 +72,4 @@ COM206-FinalProject/
 │           ├── requirements.txt        # Project dependencies
 │           ├── ui_design.py            # Compiled Python UI file
 │           └── ui_design.ui            # Qt Designer UI file
-└── README.md                           # Main repository documentation (this file)
+└── README.md                           # Main repository documentation (this file)                        # Main repository documentation (this file)
