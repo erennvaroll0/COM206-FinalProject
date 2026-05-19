@@ -57,8 +57,6 @@ Follow these steps to run the project locally:
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ```text
 COM206-FinalProject/
 ├── submissions/
